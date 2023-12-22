@@ -9,7 +9,8 @@
       "Advanced Topics Part 1",
       "Advanced Topics Part 2",
       "Review and Refinement",
-      "Final Touches and Deployment"
+      "Final Touches and Deployment",
+      "Final Test 2 and Deployment 2"
     ],
     "subsectionTopics": [
       ["Learn Widgets and Basic Concepts", "Dive into State Management", "Explore Git for Version Control"],
@@ -21,6 +22,8 @@
       ["Explore Dependency Injection in Flutter", "Set up a CI/CD Pipeline", "Understand Flutter Design Patterns"],
       ["Focus on Accessibility in Flutter Apps", "Performance Monitoring and Optimization", "Learn Cloud Hosting for Deploying Your Flutter App"],
       ["Review and Refine Your Flutter App", "Address any Weaknesses, Optimize Code, and Test Thoroughly"],
-      ["Apply Final Touches to Your Flutter App", "Deploy Your Flutter App using Cloud Hosting and Monitor Performance"]
+      ["Apply Final Touches to Your Flutter App", "Deploy Your Flutter App using Cloud Hosting and Monitor Performance"],
+      ["TEST Your Flutter App", "TEST Your Flutter App using Cloud Hosting and Monitor Performance"]
+    
     ]
   }
